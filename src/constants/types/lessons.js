@@ -1,0 +1,5 @@
+export const FETCH_LESSONS = "FETCH_LESSONS";
+export const GET_LESSONS = "GET_LESSON";
+export const CREATE_LESSON = "CREATE_LESSON";
+export const UPDATE_LESSON = "UPDATE_LESSON";
+export const DELETE_LESSON = "DELETE_LESSON";
